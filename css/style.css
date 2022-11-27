@@ -62,14 +62,7 @@ header {
 
   font-size: 1rem;
 }
-.nav-item {
-  color: white;
-  font-weight: bold;
-}
-.nav-link {
-  color: white;
-  font-weight: bold;
-}
+
 .nav__item {
   margin: 1rem;
 }
