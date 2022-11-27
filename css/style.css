@@ -409,7 +409,7 @@ form #boton:hover {
       rgba(0, 0, 0, 0.2),
       rgba(0, 0, 0, 0.2)
     ),
-    url("/img/materiales1.png");
+    url("img/materiales1.png");
   color: white;
   background-repeat: no-repeat;
   background-size: cover;
